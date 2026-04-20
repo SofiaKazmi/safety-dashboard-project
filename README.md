@@ -171,7 +171,7 @@ This project was built as part of a transition into **Data Analytics**, applying
 
 **Sofia Kazmi**  
 📧 sofianksk@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+🔗 [LinkedIn](https://www.linkedin.com/in/sofia-kazmi-data-analyst/)
 
 ---
 
